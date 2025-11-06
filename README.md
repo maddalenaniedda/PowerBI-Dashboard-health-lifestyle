@@ -1,7 +1,4 @@
 # Power BI: Health and Lifestyle Dashboard
-<img width="1370" height="763" alt="image" src="https://github.com/user-attachments/assets/ef63f10e-74ad-4979-99a1-52a5c32b866d" />
-
-
 This dashboard visualizes health and lifestyle data to make insights clear, simple, and engaging.
 
 ## Key Features
@@ -22,3 +19,13 @@ The data used in this dashboard is **synthetic** and was sourced from Kaggle:
 
 ## Philosophy
 *"Turning data into stories anyone can understand."*
+
+## Preview
+
+<img width="1368" height="825" alt="image" src="https://github.com/user-attachments/assets/8e0a3aad-19ff-482b-b990-c358e85cf2fb" />
+<br><br>
+<img width="1370" height="813" alt="image" src="https://github.com/user-attachments/assets/99fe79b9-0938-43f6-909d-cf03a05279db" />
+<br><br>
+<img width="1381" height="818" alt="image" src="https://github.com/user-attachments/assets/56c83f73-dd7b-4e40-9d67-3d100e945b9b" />
+
+
