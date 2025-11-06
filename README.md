@@ -1,4 +1,4 @@
-# Power BI Project: Health and Lifestyle Dashboard
+# Power BI: Health and Lifestyle Dashboard
 <img width="1370" height="763" alt="image" src="https://github.com/user-attachments/assets/ef63f10e-74ad-4979-99a1-52a5c32b866d" />
 
 
